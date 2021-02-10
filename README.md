@@ -5,6 +5,7 @@
 ![GitHub lines of code](https://tokei.rs/b1/github/RemainingToast/toastclient)
 ![GitHub last commit](https://img.shields.io/github/last-commit/RemainingToast/toastclient)
 
+
 ### Installing
 *I recommend using [multimc](https://multimc.org/) as it makes installing Fabric much easier.*
 
